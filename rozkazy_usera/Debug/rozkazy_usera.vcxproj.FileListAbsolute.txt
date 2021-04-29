@@ -1,0 +1,2 @@
+D:\Studia\Sem5\OS\rozkazy_usera\Debug\rozkazy_usera.exe
+D:\Studia\Sem5\OS\rozkazy_usera\Debug\rozkazy_usera.pdb
